@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rugtumu&layout=compact)
+[![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugtumu)](https://github.com/anuraghazra/github-readme-stats)
